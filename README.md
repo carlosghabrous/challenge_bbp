@@ -1,3 +1,3 @@
 # challenge_bbp
-BBP code challenge
+BBP python software engineer code challenge
 (Blue Brain Project, Geneva, Switzerland)
